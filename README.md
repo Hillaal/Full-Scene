@@ -70,8 +70,3 @@ Use the menu binned to the right mouse button to change the Animation
 
 
 
-## Issues 
-
- 1. errors in glm.cpp that took a lot time before it was solved.
- 2.  error in glut. h that made the program stop running and the output screen disappeared and after many trials the problem was solved.
- 3. mtl and obj of objects ( the soccer ball ) when downloaded from the website, it wasn't like we saw in the section, and I'm not talking about the mtl and the colours, the .obj itself was different. It appeared like it was the negative of the object, we tried to change the colours the materials, changing in the mtl file but we couldn't change it. finally we took the .obj file for the ball from the the tutorial. For the other object (football-goal), we faced the same problem and we think that there's a problem with texture that is with the .obj file, we included all the images the files that were in the .zip file but still have no clue what is the problem.
